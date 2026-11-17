@@ -1,0 +1,6 @@
+node_modules/ 
+_IGNORE* 
+*.data.json 
+*.csv 
+zstd.exe 
+zstd.zip
